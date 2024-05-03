@@ -3,7 +3,7 @@
 ## Brief
 
 Create an application to model a game of [Connect Four](https://en.wikipedia.org/wiki/Connect_Four). Feel free to use a framework if you wish. The application must fulfill the following core requirements:
-* Allow the user to configure the size of the grid and the winning row length (i.e. A user could need 4, 5, or 3 tokens etc. in a row to win the game)
+* Allow the user to configure the size of the grid and the winning row length (i.e. A user could need 4, 5, or 3 tokens, etc. in a row to win the game)
 * Initialise a new game grid.
 * Add a token to the game grid. A token can be either Red or Yellow. A token is added to a specified grid column.
 * Show the game grid state/progress in the console or log to a file.
@@ -20,8 +20,6 @@ In addition to the core requirements above implement a GUI that can be interacte
 As much as possible, please keep it simple. If you need any more information, please don't hesitate to ask. We would rather you ask obvious questions and get it right rather than not ask and get it wrong. (Asking good questions is seen as a positive!)
 
 ## Review Criteria
-
-All tech test submissions (for any of our tech tests) are anonymized and reviewed using a standard template.
 
 At a high level, we will be looking for:
 * Readability: clear naming conventions, clear documentation where necessary
