@@ -2,21 +2,28 @@
 
 ## Brief
 
-Create an application to model a game of [Connect Four](https://en.wikipedia.org/wiki/Connect_Four). Feel free to use a framework if you wish. The application must fulfil the following core requirements:
+Create an application to model a game of [Connect Four](https://en.wikipedia.org/wiki/Connect_Four). Feel free to use a framework if you wish. The application must fulfill the following core requirements:
+* Allow the user to configure the size of the grid and the winning row length (i.e. A user could need 4, 5, or 3 tokens etc. in a row to win the game)
 * Initialise a new game grid.
 * Add a token to the game grid. A token can be either Red or Yellow. A token is added to a specified grid column.
-* Show the game grid state.
+* Show the game grid state/progress in the console or log to a file.
 * Show the next player to play, Red or Yellow.
 * Show the winner.
 * These operations should be exposed through a REST API.
 
-As much as possible, please keep it simple. If you need any further information, please ask. We would rather you asked obvious questions and got it right rather than not ask questions and get it wrong. (Asking good questions is seen as a positive!)
+## Advanced (Optional)
+
+In addition to the core requirements above implement a GUI that can be interacted with of the game grid/state, allowing players to see the game progress and place their tokens on the grid.
+
+
+
+As much as possible, please keep it simple. If you need any more information, please don't hesitate to ask. We would rather you ask obvious questions and get it right rather than not ask and get it wrong. (Asking good questions is seen as a positive!)
 
 ## Review Criteria
 
-All tech test submissions (for any of our tech tests) are anonymised and reviewed using a standard template.
+All tech test submissions (for any of our tech tests) are anonymized and reviewed using a standard template.
 
-At a high level we will be looking for:
+At a high level, we will be looking for:
 * Readability: clear naming conventions, clear documentation where necessary
 * Good understanding of the programming language and its features
 * Automated tests
@@ -38,7 +45,7 @@ Please time-box this exercise at about 3 hours. If you've spent more than that a
 
 In the root of your application create a README.md including:
 
-  1. A covering note explaining the technology choices you have made.
+  1. A cover note explaining the technology choices you have made.
   2. Any instructions required to run your solution and tests in a Linux/Mac environment.
 
 Email a link to your repo (make sure it's public!), or as an attachment the git bundled repository showing your commit history with all your commits on the master branch:
