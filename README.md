@@ -32,7 +32,7 @@ At a high level, we will be looking for:
 
 ## Languages
 
-We use a mixture of languages but the majority of our codebase is Java. For this tech test we recommend you use Java, but if you can show off your skills better in another language then please do so and include your justification in the README.
+Feel free to use any language of your choice.
 
 ## Timescale
 
