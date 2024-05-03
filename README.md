@@ -9,7 +9,6 @@ Create an application to model a game of [Connect Four](https://en.wikipedia.org
 * Show the game grid state/progress in the console or log to a file.
 * Show the next player to play, Red or Yellow.
 * Show the winner.
-* These operations should be exposed through a REST API.
 
 ## Advanced (Optional)
 
