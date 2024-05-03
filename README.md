@@ -10,13 +10,11 @@ Create an application to model a game of [Connect Four](https://en.wikipedia.org
 * Show the next player to play, Red or Yellow.
 * Show the winner.
 
+As much as possible, please keep it simple. If you need any more information, please don't hesitate to ask. We would rather you ask obvious questions and get it right rather than not ask and get it wrong. (Asking good questions is seen as a positive!)
+
 ## Advanced (Optional)
 
 In addition to the core requirements above implement a GUI that can be interacted with of the game grid/state, allowing players to see the game progress and place their tokens on the grid.
-
-
-
-As much as possible, please keep it simple. If you need any more information, please don't hesitate to ask. We would rather you ask obvious questions and get it right rather than not ask and get it wrong. (Asking good questions is seen as a positive!)
 
 ## Review Criteria
 
